@@ -1273,6 +1273,8 @@ MonoBehaviour:
   gs: 0
   readySounds: {fileID: 8300000, guid: 0041c6ada6fddd84681fb2f6b533bd59, type: 3}
   goSound: {fileID: 8300000, guid: 353403136ecfe5a4b9d9a3857fc40b1d, type: 3}
+  timetext: {fileID: 1467145804}
+  ScoreText: {fileID: 981469851}
 --- !u!82 &1424980373
 AudioSource:
   m_ObjectHideFlags: 0
