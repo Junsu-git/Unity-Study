@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -9,10 +10,12 @@ public class GameManager : MonoBehaviour
         End
     }
     public int score;
-
+    float limitTime;
     public GameState gs;
     public AudioClip readySounds;
     public AudioClip goSound;
+    public TextMeshProUGUI timetext;
+    public TextMeshProUGUI ScoreText;
     private AudioSource audioSource;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -25,7 +28,13 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(gs == GameState.Play)
+        {
+            limitTime -= Time.deltaTime;
+            if (limitTime <= 0) limitTime = 0;
+            timetext.text = limitTime.ToString("N2");
+            ScoreText.text = score.ToString();
+        }
     }
     public void PlaySound(AudioClip clip)
     {
