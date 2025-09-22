@@ -28,7 +28,7 @@ public class Hole : MonoBehaviour
     {
         isTouch = true;
         PlaySound(openSound);
-        if(gm.gs == GameManager.GameState.Ready)
+        if (gm.gs == GameManager.GameState.Ready)
         {
             gm.Go();
         }
@@ -44,7 +44,7 @@ public class Hole : MonoBehaviour
         {
             isTouch = false;
             ani.SetTrigger("isTouch");
-            if(isBomb)
+            if (isBomb)
             {
                 gm.score--;
                 PlaySound(bombSound);
@@ -63,20 +63,23 @@ public class Hole : MonoBehaviour
         float randomD = Random.Range(1.0f, 10.0f);
         yield return new WaitForSeconds(randomTime);
 
-        if (randomD >= 2.0f)
+        if (gm.gs != GameManager.GameState.End)
         {
-            ani.SetTrigger("BOpen");
-            isBomb = true;
-        }
-        else
-        {
-            ani.SetTrigger("DOpen");
-            isBomb = false;
+            if (randomD >= 2.0f)
+            {
+                ani.SetTrigger("BOpen");
+                isBomb = true;
+            }
+            else
+            {
+                ani.SetTrigger("DOpen");
+                isBomb = false;
+            }
         }
     }
 
     void Update()
     {
-        
+
     }
 }
