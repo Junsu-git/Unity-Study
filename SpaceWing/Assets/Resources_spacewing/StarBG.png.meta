@@ -1,0 +1,2847 @@
+fileFormatVersion: 2
+guid: 6f4d7e77ef71d704cb8cb1c01f2e8711
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1008385747848336833
+    second: StarBG_0
+  - first:
+      213: 8938098603455179612
+    second: StarBG_1
+  - first:
+      213: 8657901115743516008
+    second: StarBG_2
+  - first:
+      213: 7912542651675755691
+    second: StarBG_3
+  - first:
+      213: -2282702786608181081
+    second: StarBG_4
+  - first:
+      213: 2571889869939936905
+    second: StarBG_5
+  - first:
+      213: 6889226996225930467
+    second: StarBG_6
+  - first:
+      213: 4497591076175784970
+    second: StarBG_7
+  - first:
+      213: 7244115976237649039
+    second: StarBG_8
+  - first:
+      213: 2334618798244060310
+    second: StarBG_9
+  - first:
+      213: -2517124815418649786
+    second: StarBG_10
+  - first:
+      213: 7181629563240688483
+    second: StarBG_11
+  - first:
+      213: -1274443196516078231
+    second: StarBG_12
+  - first:
+      213: -4796208018261601912
+    second: StarBG_13
+  - first:
+      213: -354658002472444652
+    second: StarBG_14
+  - first:
+      213: 5680387634398707928
+    second: StarBG_15
+  - first:
+      213: -373513111806505099
+    second: StarBG_16
+  - first:
+      213: -1661491366394976395
+    second: StarBG_17
+  - first:
+      213: 4286386420447851493
+    second: StarBG_18
+  - first:
+      213: -803667557074573018
+    second: StarBG_19
+  - first:
+      213: -7042219477342564441
+    second: StarBG_20
+  - first:
+      213: -5143267354917425809
+    second: StarBG_21
+  - first:
+      213: -1258725285367051739
+    second: StarBG_22
+  - first:
+      213: -1637339370634664903
+    second: StarBG_23
+  - first:
+      213: 1346115744675552463
+    second: StarBG_24
+  - first:
+      213: -3997850798553635661
+    second: StarBG_25
+  - first:
+      213: 8478656143504940664
+    second: StarBG_26
+  - first:
+      213: 4092031487616312355
+    second: StarBG_27
+  - first:
+      213: 4378580689172410239
+    second: StarBG_28
+  - first:
+      213: 2390601363695906409
+    second: StarBG_29
+  - first:
+      213: -8721437089737705449
+    second: StarBG_30
+  - first:
+      213: 656487987723910383
+    second: StarBG_31
+  - first:
+      213: -5192788407282250347
+    second: StarBG_32
+  - first:
+      213: 4507314380338480370
+    second: StarBG_33
+  - first:
+      213: -1596403822753001013
+    second: StarBG_34
+  - first:
+      213: -6716309325413960951
+    second: StarBG_35
+  - first:
+      213: 2296296909446465800
+    second: StarBG_36
+  - first:
+      213: 1293158626626514757
+    second: StarBG_37
+  - first:
+      213: 4346685743906123865
+    second: StarBG_38
+  - first:
+      213: -8867996422284220788
+    second: StarBG_39
+  - first:
+      213: 664153329124296716
+    second: StarBG_40
+  - first:
+      213: 4942988416813262992
+    second: StarBG_41
+  - first:
+      213: -4341234362153113446
+    second: StarBG_42
+  - first:
+      213: -724738149989049921
+    second: StarBG_43
+  - first:
+      213: 7398069796668708763
+    second: StarBG_44
+  - first:
+      213: -6277439056862934172
+    second: StarBG_45
+  - first:
+      213: 384264983413340183
+    second: StarBG_46
+  - first:
+      213: 8135911565383866345
+    second: StarBG_47
+  - first:
+      213: -9150101178023969870
+    second: StarBG_48
+  - first:
+      213: 5784732202914933078
+    second: StarBG_49
+  - first:
+      213: 5165463778628200748
+    second: StarBG_50
+  - first:
+      213: -5809483535398559715
+    second: StarBG_51
+  - first:
+      213: -1181507327408597309
+    second: StarBG_52
+  - first:
+      213: -1889901942800041655
+    second: StarBG_53
+  - first:
+      213: 124193347277497146
+    second: StarBG_54
+  - first:
+      213: 4545795728238477877
+    second: StarBG_55
+  - first:
+      213: -8679887814324855919
+    second: StarBG_56
+  - first:
+      213: 6406047830101876718
+    second: StarBG_57
+  - first:
+      213: -3140983600121629175
+    second: StarBG_58
+  - first:
+      213: -6584138767260710595
+    second: StarBG_59
+  - first:
+      213: 5374804571793767078
+    second: StarBG_60
+  - first:
+      213: 1132634921010404067
+    second: StarBG_61
+  - first:
+      213: -3867934240744229423
+    second: StarBG_62
+  - first:
+      213: -4145284991223985173
+    second: StarBG_63
+  - first:
+      213: -3927057045143874867
+    second: StarBG_64
+  - first:
+      213: -3528405547138710385
+    second: StarBG_65
+  - first:
+      213: -6441478088137251474
+    second: StarBG_66
+  - first:
+      213: -1020944259610134896
+    second: StarBG_67
+  - first:
+      213: -4934516529189250053
+    second: StarBG_68
+  - first:
+      213: 9107263766627806863
+    second: StarBG_69
+  - first:
+      213: 8039313529370943434
+    second: StarBG_70
+  - first:
+      213: 5000972031631830226
+    second: StarBG_71
+  - first:
+      213: -6641695033447696551
+    second: StarBG_72
+  - first:
+      213: -5169792221568189427
+    second: StarBG_73
+  - first:
+      213: -8031085054678641964
+    second: StarBG_74
+  - first:
+      213: -5985583944153099822
+    second: StarBG_75
+  - first:
+      213: 3149062078952718072
+    second: StarBG_76
+  - first:
+      213: -4955166495383801382
+    second: StarBG_77
+  - first:
+      213: 5435615410927742616
+    second: StarBG_78
+  - first:
+      213: 5562081155436443976
+    second: StarBG_79
+  - first:
+      213: 6829281343754195994
+    second: StarBG_80
+  - first:
+      213: 2758415577727997524
+    second: StarBG_81
+  - first:
+      213: -8979949299045546885
+    second: StarBG_82
+  - first:
+      213: 4662281165348871378
+    second: StarBG_83
+  - first:
+      213: 8732020517597205185
+    second: StarBG_84
+  - first:
+      213: -3248646792328655436
+    second: StarBG_85
+  - first:
+      213: 58543278362386335
+    second: StarBG_86
+  - first:
+      213: -4001244659172717566
+    second: StarBG_87
+  - first:
+      213: 8877487902596066208
+    second: StarBG_88
+  - first:
+      213: -8741229891090429926
+    second: StarBG_89
+  - first:
+      213: 6112645701351169038
+    second: StarBG_90
+  - first:
+      213: -8372594538407310964
+    second: StarBG_91
+  - first:
+      213: 1755932131616562180
+    second: StarBG_92
+  - first:
+      213: 4915508713435228304
+    second: StarBG_93
+  - first:
+      213: -2822056396289867563
+    second: StarBG_94
+  - first:
+      213: 6629972360881365286
+    second: StarBG_95
+  - first:
+      213: -837783889382414086
+    second: StarBG_96
+  - first:
+      213: 381513028162348701
+    second: StarBG_97
+  - first:
+      213: 2295960554115109666
+    second: StarBG_98
+  - first:
+      213: 1405593049659377053
+    second: StarBG_99
+  - first:
+      213: -2658848041254841161
+    second: StarBG_100
+  - first:
+      213: 7254422562105041239
+    second: StarBG_101
+  - first:
+      213: 8810009481728667027
+    second: StarBG_102
+  - first:
+      213: -7134887440062784175
+    second: StarBG_103
+  - first:
+      213: -4367715770963119286
+    second: StarBG_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarBG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c51119be718efd00800000000000000
+      internalID: 1008385747848336833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1876
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b6c52e2518a0c70800000000000000
+      internalID: 8938098603455179612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1808
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b958713b072870800000000000000
+      internalID: 8657901115743516008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1902
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c2478e9ffecd60800000000000000
+      internalID: 7912542651675755691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1833
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0dc6ce8e53250e0800000000000000
+      internalID: -2282702786608181081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1874
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0233d53031b320800000000000000
+      internalID: 2571889869939936905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_6
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1899
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f31fc3737b9f50800000000000000
+      internalID: 6889226996225930467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1776
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cac682147aa6e30800000000000000
+      internalID: 4497591076175784970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_8
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1743
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c80637915488460800000000000000
+      internalID: 7244115976237649039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1742
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c594b7d6b366020800000000000000
+      internalID: 2334618798244060310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1734
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64396a11150611dd0800000000000000
+      internalID: -2517124815418649786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1726
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba761b9064aa360800000000000000
+      internalID: 7181629563240688483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_12
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1717
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dee314aa4405ee0800000000000000
+      internalID: -1274443196516078231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1699
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88113a20832707db0800000000000000
+      internalID: -4796208018261601912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1681
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d51e10d60041bf0800000000000000
+      internalID: -354658002472444652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1685
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d04bde157ac4de40800000000000000
+      internalID: 5680387634398707928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1610
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f82d3cdc301daf0800000000000000
+      internalID: -373513111806505099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1593
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57726acb76231f8e0800000000000000
+      internalID: -1661491366394976395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1613
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33ad83dbd4c7b30800000000000000
+      internalID: 4286386420447851493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1596
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62960176d9cc8d4f0800000000000000
+      internalID: -803667557074573018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_20
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1605
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc8a652b2054e90800000000000000
+      internalID: -7042219477342564441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6da84547917f98b0800000000000000
+      internalID: -5143267354917425809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1476
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a05ef950c188ee0800000000000000
+      internalID: -1258725285367051739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1487
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342f8474800749e0800000000000000
+      internalID: -1637339370634664903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_24
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1480
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc52f3432d5ea210800000000000000
+      internalID: 1346115744675552463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_25
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1468
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4e23751e7c488c0800000000000000
+      internalID: -3997850798553635661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_26
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1495
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e9b4637dc3aa570800000000000000
+      internalID: 8478656143504940664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1439
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324651d15f0d9c830800000000000000
+      internalID: 4092031487616312355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1337
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa18620f7d3cc30800000000000000
+      internalID: 4378580689172410239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1391
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea8aa364f1d2120800000000000000
+      internalID: 2390601363695906409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1389
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718744fcc2b37f680800000000000000
+      internalID: -8721437089737705449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_31
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1388
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec389bb8505c1900800000000000000
+      internalID: 656487987723910383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1363
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dcc26c4728fe7b0800000000000000
+      internalID: -5192788407282250347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_33
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1345
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c5135c823d8e30800000000000000
+      internalID: 4507314380338480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1313
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc15bba6e2f68d9e0800000000000000
+      internalID: -1596403822753001013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_35
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1244
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903be09c040eac2a0800000000000000
+      internalID: -6716309325413960951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1261
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80942627fd51edf10800000000000000
+      internalID: 2296296909446465800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1207
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f2e426be832f110800000000000000
+      internalID: 1293158626626514757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95077c387a7825c30800000000000000
+      internalID: 4346685743906123865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_39
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1193
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8660541d3c8ee480800000000000000
+      internalID: -8867996422284220788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_40
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1215
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c8da1feb873900800000000000000
+      internalID: 664153329124296716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1165
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986609a6c5099440800000000000000
+      internalID: 4942988416813262992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_42
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1154
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e4253956d0c3c0800000000000000
+      internalID: -4341234362153113446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_43
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1151
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb99abe0e7631f5f0800000000000000
+      internalID: -724738149989049921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1128
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971cfd88493ba660800000000000000
+      internalID: 7398069796668708763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_45
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1126
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8584ef6e02e8a0800000000000000
+      internalID: -6277439056862934172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1060
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71839fb67fe255500800000000000000
+      internalID: 384264983413340183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_47
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1085
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e792ba767098e070800000000000000
+      internalID: 8135911565383866345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_48
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1028
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb7ff8357f440180800000000000000
+      internalID: -9150101178023969870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_49
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1028
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e18b2a4f774050800000000000000
+      internalID: 5784732202914933078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_50
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 995
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e74950f96fa740800000000000000
+      internalID: 5165463778628200748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 994
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a6182181906fa0800000000000000
+      internalID: -5809483535398559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 986
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c61a4a78517a9fe0800000000000000
+      internalID: -1181507327408597309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_53
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 978
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94935173238b5c5e0800000000000000
+      internalID: -1889901942800041655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_54
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 969
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3321fbf03939b100800000000000000
+      internalID: 124193347277497146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 862
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53284235129e51f30800000000000000
+      internalID: 4545795728238477877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_56
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 845
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bdce85508da8780800000000000000
+      internalID: -8679887814324855919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 904
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef526f8f8ad6e850800000000000000
+      internalID: 6406047830101876718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_58
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 865
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9063c6dae0cf864d0800000000000000
+      internalID: -3140983600121629175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 848
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390c89eca070a4a0800000000000000
+      internalID: -6584138767260710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_60
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 857
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab9e6f744279a40800000000000000
+      internalID: 5374804571793767078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_61
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 728
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea170fa57de7bf00800000000000000
+      internalID: 1132634921010404067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 736
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5bedd1d46525ac0800000000000000
+      internalID: -3867934240744229423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 739
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb065d534df876c0800000000000000
+      internalID: -4145284991223985173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_64
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 733
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc211838c6a4089c0800000000000000
+      internalID: -3927057045143874867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_65
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 732
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84874369d5980fc0800000000000000
+      internalID: -3528405547138710385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_66
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 720
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65ed18aec54b96a0800000000000000
+      internalID: -6441478088137251474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 682
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b676ea90e4d1f0800000000000000
+      internalID: -1020944259610134896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_68
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 641
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb91636c53158bb0800000000000000
+      internalID: -4934516529189250053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_69
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 691
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee2a5b420836e70800000000000000
+      internalID: 9107263766627806863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_70
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 649
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf95249f01619f60800000000000000
+      internalID: 8039313529370943434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_71
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 658
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc24150195076540800000000000000
+      internalID: 5000972031631830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_72
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 588
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957bfd86e85f3d3a0800000000000000
+      internalID: -6641695033447696551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 606
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb9de7d553148b0800000000000000
+      internalID: -5169792221568189427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_74
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 560
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25eea71badb8090800000000000000
+      internalID: -8031085054678641964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_75
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 597
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11973ad1feeeca0800000000000000
+      internalID: -5985583944153099822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 537
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe31afb647b3bb20800000000000000
+      internalID: 3149062078952718072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 498
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13bb77356bb3bb0800000000000000
+      internalID: -4955166495383801382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 471
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eacf7ca6f2f6b40800000000000000
+      internalID: 5435615410927742616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 496
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849fea9775b703d40800000000000000
+      internalID: 5562081155436443976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 405
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14dba5f23b76ce50800000000000000
+      internalID: 6829281343754195994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 429
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456916d6a5cd74620800000000000000
+      internalID: 2758415577727997524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_82
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 307
+        width: 111
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744f59b0bfc06380800000000000000
+      internalID: -8979949299045546885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 372
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc1d9f9400c3b040800000000000000
+      internalID: 4662281165348871378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_84
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 372
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ddc2856e5e2970800000000000000
+      internalID: 8732020517597205185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_85
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 339
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc98654fc7ae2d0800000000000000
+      internalID: -3248646792328655436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_86
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 372
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fd6ce2dccffc000800000000000000
+      internalID: 58543278362386335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 332
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cc4969e29b878c0800000000000000
+      internalID: -4001244659172717566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_88
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 322
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe014663c233b70800000000000000
+      internalID: 8877487902596066208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_89
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 314
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1847812ab9e0b680800000000000000
+      internalID: -8741229891090429926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_90
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 248
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cdad211ea74d450800000000000000
+      internalID: 6112645701351169038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_91
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 250
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894bd190a19ecb80800000000000000
+      internalID: -8372594538407310964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_92
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 234
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c13ba68f25e5810800000000000000
+      internalID: 1755932131616562180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 189
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098e4a2a125673440800000000000000
+      internalID: 4915508713435228304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_94
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 210
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d00603d8aa06d8d0800000000000000
+      internalID: -2822056396289867563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_95
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 193
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621edf03cb4620c50800000000000000
+      internalID: 6629972360881365286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_96
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 141
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8e0dacdf79f54f0800000000000000
+      internalID: -837783889382414086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ecc8e3186b4500800000000000000
+      internalID: 381513028162348701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_98
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 78
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223175e95f3ecdf10800000000000000
+      internalID: 2295960554115109666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_99
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 64
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9584b77e6ba18310800000000000000
+      internalID: 1405593049659377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_100
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 46
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4134d2bcfd91bd0800000000000000
+      internalID: -2658848041254841161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_101
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 36
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751a9d872e2eca460800000000000000
+      internalID: 7254422562105041239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 36
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da24a32f0734a70800000000000000
+      internalID: 8810009481728667027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d59aeeca9cbfc90800000000000000
+      internalID: -7134887440062784175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarBG_104
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a433fdfb5a1c263c0800000000000000
+      internalID: -4367715770963119286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StarBG_0: 1008385747848336833
+      StarBG_1: 8938098603455179612
+      StarBG_10: -2517124815418649786
+      StarBG_100: -2658848041254841161
+      StarBG_101: 7254422562105041239
+      StarBG_102: 8810009481728667027
+      StarBG_103: -7134887440062784175
+      StarBG_104: -4367715770963119286
+      StarBG_11: 7181629563240688483
+      StarBG_12: -1274443196516078231
+      StarBG_13: -4796208018261601912
+      StarBG_14: -354658002472444652
+      StarBG_15: 5680387634398707928
+      StarBG_16: -373513111806505099
+      StarBG_17: -1661491366394976395
+      StarBG_18: 4286386420447851493
+      StarBG_19: -803667557074573018
+      StarBG_2: 8657901115743516008
+      StarBG_20: -7042219477342564441
+      StarBG_21: -5143267354917425809
+      StarBG_22: -1258725285367051739
+      StarBG_23: -1637339370634664903
+      StarBG_24: 1346115744675552463
+      StarBG_25: -3997850798553635661
+      StarBG_26: 8478656143504940664
+      StarBG_27: 4092031487616312355
+      StarBG_28: 4378580689172410239
+      StarBG_29: 2390601363695906409
+      StarBG_3: 7912542651675755691
+      StarBG_30: -8721437089737705449
+      StarBG_31: 656487987723910383
+      StarBG_32: -5192788407282250347
+      StarBG_33: 4507314380338480370
+      StarBG_34: -1596403822753001013
+      StarBG_35: -6716309325413960951
+      StarBG_36: 2296296909446465800
+      StarBG_37: 1293158626626514757
+      StarBG_38: 4346685743906123865
+      StarBG_39: -8867996422284220788
+      StarBG_4: -2282702786608181081
+      StarBG_40: 664153329124296716
+      StarBG_41: 4942988416813262992
+      StarBG_42: -4341234362153113446
+      StarBG_43: -724738149989049921
+      StarBG_44: 7398069796668708763
+      StarBG_45: -6277439056862934172
+      StarBG_46: 384264983413340183
+      StarBG_47: 8135911565383866345
+      StarBG_48: -9150101178023969870
+      StarBG_49: 5784732202914933078
+      StarBG_5: 2571889869939936905
+      StarBG_50: 5165463778628200748
+      StarBG_51: -5809483535398559715
+      StarBG_52: -1181507327408597309
+      StarBG_53: -1889901942800041655
+      StarBG_54: 124193347277497146
+      StarBG_55: 4545795728238477877
+      StarBG_56: -8679887814324855919
+      StarBG_57: 6406047830101876718
+      StarBG_58: -3140983600121629175
+      StarBG_59: -6584138767260710595
+      StarBG_6: 6889226996225930467
+      StarBG_60: 5374804571793767078
+      StarBG_61: 1132634921010404067
+      StarBG_62: -3867934240744229423
+      StarBG_63: -4145284991223985173
+      StarBG_64: -3927057045143874867
+      StarBG_65: -3528405547138710385
+      StarBG_66: -6441478088137251474
+      StarBG_67: -1020944259610134896
+      StarBG_68: -4934516529189250053
+      StarBG_69: 9107263766627806863
+      StarBG_7: 4497591076175784970
+      StarBG_70: 8039313529370943434
+      StarBG_71: 5000972031631830226
+      StarBG_72: -6641695033447696551
+      StarBG_73: -5169792221568189427
+      StarBG_74: -8031085054678641964
+      StarBG_75: -5985583944153099822
+      StarBG_76: 3149062078952718072
+      StarBG_77: -4955166495383801382
+      StarBG_78: 5435615410927742616
+      StarBG_79: 5562081155436443976
+      StarBG_8: 7244115976237649039
+      StarBG_80: 6829281343754195994
+      StarBG_81: 2758415577727997524
+      StarBG_82: -8979949299045546885
+      StarBG_83: 4662281165348871378
+      StarBG_84: 8732020517597205185
+      StarBG_85: -3248646792328655436
+      StarBG_86: 58543278362386335
+      StarBG_87: -4001244659172717566
+      StarBG_88: 8877487902596066208
+      StarBG_89: -8741229891090429926
+      StarBG_9: 2334618798244060310
+      StarBG_90: 6112645701351169038
+      StarBG_91: -8372594538407310964
+      StarBG_92: 1755932131616562180
+      StarBG_93: 4915508713435228304
+      StarBG_94: -2822056396289867563
+      StarBG_95: 6629972360881365286
+      StarBG_96: -837783889382414086
+      StarBG_97: 381513028162348701
+      StarBG_98: 2295960554115109666
+      StarBG_99: 1405593049659377053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
