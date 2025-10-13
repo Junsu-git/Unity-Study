@@ -152,6 +152,7 @@ MonoBehaviour:
   - {fileID: 4021670815615135279, guid: ba379f2dc0bccf74584d9af5d12d6cf2, type: 3}
   - {fileID: 5480318611613948320, guid: b0850c0741864344893e8e5df4fcdea1, type: 3}
   - {fileID: 7710821135776398733, guid: a4494889edb9dd148a79848b81076a03, type: 3}
+  - {fileID: 5474254023977268326, guid: cb0f461e4d5b987438be57cbc2f836f6, type: 3}
 --- !u!4 &333936474
 Transform:
   m_ObjectHideFlags: 0
@@ -633,6 +634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pool: {fileID: 333936473}
+  enemyNum: 2
 --- !u!1 &1520692646
 GameObject:
   m_ObjectHideFlags: 0

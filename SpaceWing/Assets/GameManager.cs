@@ -6,6 +6,9 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     public PoolManager pool;
 
+    public int enemyNum;
+    private int enemySpawnCount = 0;
+
     private void Awake()
     {
         if (instance == null) instance = this;
@@ -22,12 +25,20 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         gameTime += Time.deltaTime;
-        Debug.Log(gameTime);
+        //Debug.Log(gameTime);
         if (gameTime >= 1f)
         {
-            GameObject enemyStar = pool.Get(0);
-            enemyStar.transform.position = new Vector2(Random.Range(-2.8f, 2.8f), 5.5f);
+            EnemySpawn(0);
+            if (enemySpawnCount > 5) EnemySpawn(2);
+            if (enemySpawnCount > 10) EnemySpawn(1);
+            enemySpawnCount++;
             gameTime = 0;
         }
+    }
+
+    void EnemySpawn(int enemyGet)
+    {
+        GameObject enemy = pool.Get(enemyGet);
+        enemy.transform.position = new Vector2(Random.Range(-2.8f, 2.8f), 5.5f);
     }
 }

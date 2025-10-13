@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6759589089443833611}
   - component: {fileID: 5019837002358999357}
   - component: {fileID: -539348006866885104}
+  - component: {fileID: -9147872369866091120}
   m_Layer: 0
   m_Name: Uma
   m_TagString: Untagged
@@ -154,9 +155,22 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.26, y: -0.34}
   m_Radius: 0.8
+--- !u!114 &-9147872369866091120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710821135776398733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d1f2c8101133e4aacc5376b5c07ecb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentType: 2
