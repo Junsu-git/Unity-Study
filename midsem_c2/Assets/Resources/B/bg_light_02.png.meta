@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: cf70afbd366823740985fcbd6c4e5622
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -599406897632406682
+    second: bg_light_02_0
+  - first:
+      213: 5182001536549783820
+    second: bg_light_02_1
+  - first:
+      213: -1293275170983830866
+    second: bg_light_02_2
+  - first:
+      213: -388428157338901059
+    second: bg_light_02_3
+  - first:
+      213: 2056773340022482036
+    second: bg_light_02_4
+  - first:
+      213: 774955817488664783
+    second: bg_light_02_5
+  - first:
+      213: 2170528713431857820
+    second: bg_light_02_6
+  - first:
+      213: 8176809411890179582
+    second: bg_light_02_7
+  - first:
+      213: 1289616370348442959
+    second: bg_light_02_8
+  - first:
+      213: -3258277593845330147
+    second: bg_light_02_9
+  - first:
+      213: -1047786592670053632
+    second: bg_light_02_10
+  - first:
+      213: 2834163151781314682
+    second: bg_light_02_11
+  - first:
+      213: -7435839278083723891
+    second: bg_light_02_12
+  - first:
+      213: -3473997469912939458
+    second: bg_light_02_13
+  - first:
+      213: -152130548968891005
+    second: bg_light_02_14
+  - first:
+      213: -9192966574304004856
+    second: bg_light_02_15
+  - first:
+      213: 7986497117416034370
+    second: bg_light_02_16
+  - first:
+      213: 7554989562811232434
+    second: bg_light_02_17
+  - first:
+      213: 5819910988740215439
+    second: bg_light_02_18
+  - first:
+      213: -8123919719106165182
+    second: bg_light_02_19
+  - first:
+      213: 2886461367162021603
+    second: bg_light_02_20
+  - first:
+      213: 7852732187791782512
+    second: bg_light_02_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_light_02_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1520
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66393b63a9a7ea7f0800000000000000
+      internalID: -599406897632406682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1523
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09049b21fa2ae740800000000000000
+      internalID: 5182001536549783820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1280
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1da4851d5d0ee0800000000000000
+      internalID: -1293275170983830866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1117
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db52e0d16a60c9af0800000000000000
+      internalID: -388428157338901059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1171
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a88b94702b8c10800000000000000
+      internalID: 2056773340022482036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 880
+        width: 205
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c80ac53231ca00800000000000000
+      internalID: 774955817488664783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 814
+        width: 219
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a34ea6d544f1e10800000000000000
+      internalID: 2170528713431857820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 685
+        width: 207
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde8c766dcd97170800000000000000
+      internalID: 8176809411890179582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 525
+        width: 340
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c5239143a5e110800000000000000
+      internalID: 1289616370348442959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_9
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 182
+        width: 468
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0c3f9ac548c2d0800000000000000
+      internalID: -3258277593845330147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 302
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0c7735a38571f0800000000000000
+      internalID: -1047786592670053632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 298
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704d69de58f45720800000000000000
+      internalID: 2834163151781314682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_12
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 302
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2ce6c2979ec890800000000000000
+      internalID: -7435839278083723891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 389
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34cb3705b1e9cfc0800000000000000
+      internalID: -3473997469912939458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 147
+        width: 126
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d593d521683edf0800000000000000
+      internalID: -152130548968891005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 147
+        width: 127
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805f19a6b950c6080800000000000000
+      internalID: -9192966574304004856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 84
+        width: 273
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240934360dcb5de60800000000000000
+      internalID: 7986497117416034370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 377
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b525baf6b8d860800000000000000
+      internalID: 7554989562811232434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c044853a74c050800000000000000
+      internalID: 5819910988740215439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 47
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c2eece0a024f80800000000000000
+      internalID: -8123919719106165182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 23
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a49ff155ce0820800000000000000
+      internalID: 2886461367162021603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_light_02_21
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 29
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072fa99b1528afc60800000000000000
+      internalID: 7852732187791782512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_light_02_0: -599406897632406682
+      bg_light_02_1: 5182001536549783820
+      bg_light_02_10: -1047786592670053632
+      bg_light_02_11: 2834163151781314682
+      bg_light_02_12: -7435839278083723891
+      bg_light_02_13: -3473997469912939458
+      bg_light_02_14: -152130548968891005
+      bg_light_02_15: -9192966574304004856
+      bg_light_02_16: 7986497117416034370
+      bg_light_02_17: 7554989562811232434
+      bg_light_02_18: 5819910988740215439
+      bg_light_02_19: -8123919719106165182
+      bg_light_02_2: -1293275170983830866
+      bg_light_02_20: 2886461367162021603
+      bg_light_02_21: 7852732187791782512
+      bg_light_02_3: -388428157338901059
+      bg_light_02_4: 2056773340022482036
+      bg_light_02_5: 774955817488664783
+      bg_light_02_6: 2170528713431857820
+      bg_light_02_7: 8176809411890179582
+      bg_light_02_8: 1289616370348442959
+      bg_light_02_9: -3258277593845330147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
