@@ -13,6 +13,7 @@ public class Enemy : MonoBehaviour
     public enemyType currentType;
     float umaMoveX;
     bool isGoLEft; // 왼쪽으로 가느냐
+    int enemyHp;
     public enum enemyType { Star, Purple, Uma, PurpleBullet }
     float RandomValue(float min, float max)
     {
@@ -99,12 +100,15 @@ public class Enemy : MonoBehaviour
         switch (currentType)
         {
             case enemyType.Star:
+                enemyHp = 1;
                 Star();
                 break;
             case enemyType.Purple:
+                enemyHp = 2;
                 Purple();
                 break;
             case enemyType.Uma:
+                enemyHp = 3;
                 //Debug.Log(currentType);
                 Uma();
                 break;
@@ -118,6 +122,18 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if(collision.CompareTag("back")) gameObject.SetActive(false);
+        if (collision.CompareTag("back")) gameObject.SetActive(false);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("PlayerBullet"))
+        enemyHp -= 1;
+        if (enemyHp == 0)
+        {
+            GameObject boom = GameManager.instance.pool.Get(4);
+            boom.transform.position = new Vector2(transform.position.x, transform.position.y);
+            collision.gameObject.SetActive(false);
+            gameObject.SetActive(false);
+        }
     }
 }

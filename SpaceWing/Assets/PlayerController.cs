@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -6,6 +7,8 @@ public class PlayerController : MonoBehaviour
     private Vector2 initMousePos;
     private Vector2 diffPos;
     private Vector2 cursorPos;
+    int playerHp;
+    public Image playerLife;
 
     private void OnMouseDown()
     {
@@ -25,6 +28,20 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         collision.gameObject.SetActive(false);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(playerHp <= 1)
+        {
+            // °ÔÀÓ ³¡
+        }
+        else
+        {
+            playerHp -= 1;
+            playerLife.fillAmount -= 0.34f;
+            GameObject boom = GameManager.instance.pool.Get(4);
+        }
     }
     void Start()
     {
