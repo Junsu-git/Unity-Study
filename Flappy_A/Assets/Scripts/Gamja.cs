@@ -12,7 +12,6 @@ public class Gamja : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
 
-        rb.isKinematic = false;
     }
 
     void Update()
@@ -30,17 +29,17 @@ public class Gamja : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Die"))
+        if(other.CompareTag("Die") && !gm.end)
         {
             rb.linearVelocity = new Vector3(0, -10, 0);
             lookDir = new Vector3(0, 0, -180);
-            rb.isKinematic = true;
+            //rb.isKinematic = true;
             gm.GameOver();
         } 
+
         if(other.CompareTag("Goal"))
         {
             gm.GetScore();
         }
     }
-
 }
