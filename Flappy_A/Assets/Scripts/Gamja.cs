@@ -29,11 +29,11 @@ public class Gamja : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.CompareTag("Die") && !gm.end)
+        if (!gm.end) return; 
+        if(other.CompareTag("Die") && !gm.end) // 게임 시작 : end = false | !end = true -> 한번 닿으면 END = TRUE - 부정 > FALSE
         {
             rb.linearVelocity = new Vector3(0, -10, 0);
             lookDir = new Vector3(0, 0, -180);
-            //rb.isKinematic = true;
             gm.GameOver();
         } 
 

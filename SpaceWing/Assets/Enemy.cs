@@ -14,6 +14,7 @@ public class Enemy : MonoBehaviour
     float umaMoveX;
     bool isGoLEft; // 왼쪽으로 가느냐
     int enemyHp;
+    float enemyPurplePos;
     public enum enemyType { Star, Purple, Uma, PurpleBullet }
     float RandomValue(float min, float max)
     {
@@ -48,20 +49,20 @@ public class Enemy : MonoBehaviour
     {
         // 퍼플은 랜덤 스피드를 가지고 있음. enemy speed 가 동일한 역할을 해줌
         // y값 0~4사이 랜덤하게 멈춤
-        if (transform.position.y < stopY)
-        {
-            enemySpeed = 0;
-            isStop = true;
-        }
+
+        shotTime += Time.deltaTime;
         transform.Translate(Vector2.down * enemySpeed * Time.deltaTime);
-        if (isStop)
+        if (transform.position.y <= enemyPurplePos) enemySpeed = 0;
+        if(shotTime >= 1.5f)
         {
-            shotTime += Time.deltaTime;
-            if (shotTime >= 1)
-            {
-                ShotBullet();
-            }
+            float bulletRotation = RandomValue(-40, 40);
+            Vector2 pos = new Vector2(transform.position.x, transform.position.y - 0.8f);
+            GameObject enemybullet = GameManager.instance.pool.Get(3);
+            enemybullet.transform.position = pos;
+            enemybullet.transform.rotation = Quaternion.Euler(new Vector3(0, 0, bulletRotation));
+            shotTime = 0;
         }
+        
     }
 
     private void ShotBullet()

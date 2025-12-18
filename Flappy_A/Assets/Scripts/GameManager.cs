@@ -49,10 +49,15 @@ public class GameManager : MonoBehaviour
         iTween.ShakePosition(Camera.main.gameObject, iTween.Hash("x", 0.2, "y", 0.2, "time", 0.5f));
         iTween.FadeTo(gameOverImg, iTween.Hash("alpha", 255, "delay", 1f, "time", 0.5f));
         iTween.MoveTo(scoreBoard, iTween.Hash("y", 0, "delay", 1.5, "time", 0.5f));
-        if (score > PlayerPrefs.GetInt("BestScore", score))
+
+        int currentBestScore = PlayerPrefs.GetInt("BestScore", 0);
+        if (score > currentBestScore)
         {
             PlayerPrefs.SetInt("BestScore", score);
+            PlayerPrefs.Save(); // [권장] 확실하게 저장하기 위해 호출
+            
             newImg.SetActive(true);
+            //currentBestScore = score;
         }
         else if(score <= PlayerPrefs.GetInt("BestScore"))
         {
@@ -60,7 +65,7 @@ public class GameManager : MonoBehaviour
         }
 
         playScoreText.text = score.ToString();
-        bestScoreText.text = PlayerPrefs.GetInt("BestScore").ToString();
+        bestScoreText.text = currentBestScore.ToString();
     }
 
     // 캐럿 생성 함수

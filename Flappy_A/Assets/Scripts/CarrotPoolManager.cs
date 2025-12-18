@@ -1,5 +1,6 @@
 using NUnit.Framework.Constraints;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class CarrotPoolManager : MonoBehaviour
 {
@@ -38,7 +39,7 @@ public class CarrotPoolManager : MonoBehaviour
         // 준비가 안되면 생성하지 말아라 (시작할 때 탭 하지 않았을 때)
         if (gm.ready) return;
         // 게임이 끝나면 생성하지 말아라
-        if (gm.end) return;
+        if (gm.end) return; // 교수님이 요구한 수정 사항 1번이야. 게임이 종료되면 당근이 나오지 않아야 해.
 
         // 시간이 증가됨
         gameTime += Time.deltaTime;
@@ -52,17 +53,21 @@ public class CarrotPoolManager : MonoBehaviour
         // 1.5초마다 생성
         if (createTime >= 1.5f)
         {
-            for(int i = 0; i < poolSize; i++)
+            for(int i = 0; i < poolSize; i++)   
             {
+                Debug.Log($"{createTime}, {i}");
                 CarrotMove carrot = carrotPool[i];
                 if(carrot.gameObject.activeSelf == false)
                 {
                     carrot.gameObject.SetActive(true); // 당근 보이게 하고
-                    // carrot.CarrotInit(); // 랜덤 위치로 이동시킴
+                    carrot.CarrotInit(); // 랜덤 위치로 이동시킴
                     createTime = 0;
                     break;
                 }
             }
         }
     }
+    
 }
+
+
